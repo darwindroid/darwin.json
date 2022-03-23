@@ -6,8 +6,8 @@
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
       "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"db4d5e8718b97d78x",
+      "backup_ads_intertitial":"518cd97722c60b52x",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
@@ -30,7 +30,7 @@
   ],
   "Categories": [
     {
-      "id": 2,
+      "id": 1,
       "name_category": "Tutorial",
       "image": "file:///android_asset/image/image2.webp"
     }
@@ -39,33 +39,33 @@
     {
       "id": 1,
       "name_category": "Tutorial",
-      "title": "Cara mengisi Form Data Safety",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "title": "Tips Lolos Kartu Prakerja",
+      "image": "https://cdn.statically.io/img/www.qoala.app/f=auto/id/blog/wp-content/uploads/2021/11/Panduan-Lengkap-Kartu-Prakerja-Tujuan-hingga-Cara-Daftar-1.jpg",
+      "description": "Tips Lolos Kartu Prakerja",
       "link": "https://andromomu.github.io/mar/tipslolos.html"
     },
     {
       "id": 2,
       "name_category": "Tutorial",
-      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
-      "image": "file:///android_asset/image/guide2.jpg",
-      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "title": "Cara Daftar Kartu Prakerja",
+      "image": "https://sekolahpolitik.id/wp-content/uploads/2020/10/kartu_prakerja_090852_big.jpg",
+      "description": "Panduan Cara Daftar Kartu Prakerja",
       "link": "https://andromomu.github.io/mar/caradaftar.html"
     },
     {
       "id": 3,
       "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "title": "Syarat kartu Prakerja",
+      "image": "https://img.populis.id/articles/archive_20200327/kartu_prakerja_090852.jpg",
+      "description": "Syarat Daftar kartu Prakerja",
       "link": "https://andromomu.github.io/mar/syaratdaftar.html"
     },
     {
       "id": 4,
       "name_category": "Tutorial",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "title": "Manfaat kartu Prakerja",
+      "image": "https://media.suara.com/pictures/653x366/2021/08/26/60815-kartu-prakerja-gelombang-19.jpg",
+      "description": "Manfaat daftar kartu Prakerja",
       "link": "https://andromomu.github.io/mar/manfaatkartu.html"
     }
   ]
