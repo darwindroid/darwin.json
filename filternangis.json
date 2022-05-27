@@ -3,12 +3,12 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
-      "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -73,32 +73,27 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Playstore",
+      "name_category": "English Guide",
       "image": "file:///android_asset/image/image1.png"
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
+      "name_category": "Indo Guide",
       "image": "file:///android_asset/image/image2.webp"
-    },
-    {
-      "id": 3,
-      "name_category": "Reskin",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Playstore",
+      "name_category": "English Guide",
       "title": "Cara mengisi Form Data Safety",
-      "image": "https://www.gannett-cdn.com/presto/2022/05/16/PMJS/c3db8c39-f114-4a97-a54e-9e5ac09f2b25-Cry_filter_weather_Thumb2.jpg",
+      "image": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/05/13/261879-happy-30th-birthday-2022-05-13t133001433.jpg",
       "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
       "link": "https://andromomu.github.io/mar/cryingsnap.html"
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
+      "name_category": "English Guide",
       "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
       "image": "https://kuyou.id/content/images/nangus-20220514023412.jpg",
       "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
@@ -106,7 +101,7 @@
     },
     {
       "id": 3,
-      "name_category": "Tutorial",
+      "name_category": "Indo Guide",
       "title": "Modul Simpan Json di Hosting dan Google Drive",
       "image": "https://jete.id/wp-content/uploads/2022/05/13.jpg",
       "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
@@ -114,7 +109,7 @@
     },
     {
       "id": 4,
-      "name_category": "Reskin",
+      "name_category": "Indo Guide",
       "title": "Cara menggunakan Alien SDK Ads",
       "image": "https://besti.id/wp-content/uploads/2022/05/Nama-Filter-Nangis-Di-Instagram.jpg",
       "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
