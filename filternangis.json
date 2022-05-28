@@ -23,96 +23,71 @@
    "More": [
     {
       "id": 1,
-      "title": "IQ Test vs The Moron Test",
-      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+      "title": "Cara Daftar PKH Online",
+      "image": "https://play-lh.googleusercontent.com/sV1U7uk3eYR9A6wpK3EeqBErG2RspeZCO-bkho6LT2nNk_c4AD-Firowykn4qVCVwdU8=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.caradaftar.bansospkh"
     },
     {
       "id": 2,
-      "title": "Skins Editor for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+      "title": "Cara Cek Saldo E Toll di hp",
+      "image": "https://play-lh.googleusercontent.com/wmoDxpebWjXWx15sAn8eVEU9vXfLa_qfU0NnJ2V3QKVd31EO6Vm92wcuoIEwj-wP232W=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.caracekemoney.ceksaldoetoll"
     },
     {
       "id": 3,
-      "title": "Nova Skin for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+      "title": "Cara Daftar M Banking BRI",
+      "image": "https://play-lh.googleusercontent.com/4GUf0S_RfAUET5fnFfXfNORNuBLcPf1iHUDTwSfue0cI51jxWs4eRUAy5fvFvBn5BUvm=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.massutarji.caradaftarmbankingbrilewathp"
     },
     {
       "id": 4,
-      "title": "Scanner Document App - HD PDF",
-      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
-    },
-    {
-      "id": 6,
-      "title": "Super Math Solver Calculator",
-      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
-    },
-    {
-      "id": 8,
-      "title": "Twibbon Maker",
-      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
-    },
-    {
-      "id": 9,
-      "title": "Kamus Bahasa Indonesia",
-      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
-    },
-    {
-      "id": 10,
-      "title": "Data Gempabumi Terbuka",
-      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
-    }
-  ],
+      "title": "Cara Cek BPJS Kesehatan",
+      "image": "https://play-lh.googleusercontent.com/O-05uWsKdgxb326pKdIvj_VSOQheHMB40y7QDcN3FiBQyUKqRHN-y54tlTIu53a1rZRr=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.cekiuranbpjs.caracekbpjskesehatan"
+    }  ],
   "Categories": [
     {
       "id": 1,
       "name_category": "English Guide",
-      "image": "file:///android_asset/image/image1.png"
+      "image": "https://kuyou.id/content/images/nangus-20220514023412.jpg"
     },
     {
       "id": 2,
       "name_category": "Indo Guide",
-      "image": "file:///android_asset/image/image2.webp"
+      "image": "https://kuyou.id/content/images/nangus-20220514023412.jpg"
     }
   ],
   "Data": [
     {
       "id": 1,
       "name_category": "English Guide",
-      "title": "Cara mengisi Form Data Safety",
+      "title": "Use Crying Filter In SnapCht",
       "image": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/05/13/261879-happy-30th-birthday-2022-05-13t133001433.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "description": "How to Use Crying Filter In Snap",
       "link": "https://andromomu.github.io/mar/cryingsnap.html"
     },
     {
       "id": 2,
       "name_category": "English Guide",
-      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "title": "Use Crying Filter In IG",
       "image": "https://kuyou.id/content/images/nangus-20220514023412.jpg",
-      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "description": "How to Use Crying Filter In IG",
       "link": "https://andromomu.github.io/mar/cryingIGS.html"
     },
     {
       "id": 3,
       "name_category": "Indo Guide",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "title": "Menggunakan Filter Nangis di SnapCht",
       "image": "https://jete.id/wp-content/uploads/2022/05/13.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "description": "Bagaimana Menggunakan Filter Nangis di SnapCht",
       "link": "https://andromomu.github.io/mar/nangisdengansnapc.html"
     },
     {
       "id": 4,
       "name_category": "Indo Guide",
-      "title": "Cara menggunakan Alien SDK Ads",
+      "title": "Menggunakan Filter Nangis di InstGram",
       "image": "https://besti.id/wp-content/uploads/2022/05/Nama-Filter-Nangis-Di-Instagram.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "description": "Menggunakan Filter Nangis di InstGram",
       "link": "https://andromomu.github.io/mar/nangisdenganIG.html"
     }
   ]
