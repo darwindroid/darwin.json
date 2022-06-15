@@ -1,16 +1,16 @@
 {
   "Ads": [
     {
-      "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"IRON",
+      "select_main_ads": "IRON",
+      "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "4b3a41b00e5de405",
       "main_ads_intertitial":"e50e9a8040a6acfa",
       "native_for_admob":"ca-app-pub-9908974487041837/2046806157x",
-      "backup_ads_banner":"ca-app-pub-9908974487041837/5238949854",
-      "backup_ads_intertitial":"ca-app-pub-9908974487041837/8832873640",
+      "backup_ads_banner":"4b3a41b00e5de405",
+      "backup_ads_intertitial":"e50e9a8040a6acfa",
       "interval_intertitial": 1,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"15353ce29",
+      "initialize_sdk":"15353ce29",
+      "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
